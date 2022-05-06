@@ -1,0 +1,14 @@
+.footer__links-container {
+    gap: 18px;
+    height: 100%;
+    margin-top: 0;
+    display: flex;
+}
+@media screen and (max-width: 400px) {
+
+    .footer__links-container {
+        line-height: 24px;
+        font-size: 24px;
+        flex-direction: column;
+    }
+}

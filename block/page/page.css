@@ -1,0 +1,30 @@
+.page {
+    max-width: 1280px;
+    background-color: #2A2C2F;
+    font-family: Inter;
+    margin: auto;
+    align-items: center;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 1024px) {
+
+    .page {
+        max-width: 1024px;
+
+    }
+}
+@media screen and (max-width: 768px) {
+
+    .page {
+        max-width: 768px;
+
+    }
+}
+@media screen and (max-width: 320px) {
+
+    .page {
+        max-width: 320px;
+
+    }
+}

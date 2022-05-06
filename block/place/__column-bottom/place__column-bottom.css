@@ -1,0 +1,15 @@
+.place__column-bottom {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-content: start;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 320px) {
+
+  .place__column-bottom {
+    flex-direction: column;
+  }
+}
+
