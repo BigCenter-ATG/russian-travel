@@ -4,7 +4,7 @@
     margin-top: 0;
     display: flex;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
 
     .footer__links-container {
         line-height: 24px;
