@@ -28,7 +28,7 @@
         left: 104px;
     }
   }
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 450px) {
 
     .cover__title {
         width: calc(100% - 2*40px);

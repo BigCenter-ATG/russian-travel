@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
 
     .cover__subtitle {
         width: calc(100% - 2*32px);
