@@ -5,34 +5,23 @@
     line-height: 22px;
     text-align: center;
     color: #FFFFFF;
-    position: absolute;
-    top: 429px;
-    width: calc(100% - 2*412px);
-    margin: 0;
+    width: 44%;
     z-index: 2;
+    margin: 0;
 }
 
-@media screen and (max-width: 1024px) {
-
-    .cover__subtitle {
-        width: calc(100% - 2*332px);
-        top: 380px;
-    }
-}
 
 @media screen and (max-width: 768px) {
 
     .cover__subtitle {
-        width: calc(100% - 2*204px);
-        top: 299px;
+        width: 46%;
     }
 }
 
 @media screen and (max-width: 450px) {
 
     .cover__subtitle {
-        width: calc(100% - 2*32px);
-        top: 120px;
+        width: 80%;
         font-size: 14px;
         line-height: 16px;
     }
