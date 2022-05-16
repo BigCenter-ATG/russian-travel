@@ -21,7 +21,7 @@
     }
   }
   
-  @media screen and (max-width: 450px) {
+  @media screen and (max-width: 470px) {
   
     .place__image {
       width: 100%;

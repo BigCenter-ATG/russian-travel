@@ -15,7 +15,7 @@
       max-width: 352px;
     }
   }
-  @media screen and (max-width: 450px) {
+  @media screen and (max-width: 470px) {
   
     .place__text-container {
       max-width: 358px;

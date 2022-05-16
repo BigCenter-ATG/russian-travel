@@ -6,7 +6,7 @@
   flex-wrap: wrap;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 470px) {
 
   .place__column-bottom {
     flex-direction: column;
